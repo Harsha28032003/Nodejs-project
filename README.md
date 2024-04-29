@@ -1,2 +1,2 @@
 # Nodejs-project
-Weather application 
+Building a Weather application using nodejs and express 
